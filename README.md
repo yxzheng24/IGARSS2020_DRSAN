@@ -2,7 +2,7 @@
 
 ## [Deep Residual Spatial Attention Network for Hyperspectral Pansharpening](https://ieeexplore.ieee.org/document/9323620)
 
-![Overview](https://github.com/yxzheng24/IEEE_GRSL_DRCNN/blob/main/Framework.png "Overview of the proposed method for hyperspectral pansharpening.")
+![Overview](https://github.com/yxzheng24/IGARSS2020_DRSAN/blob/main/Flowchart_IGARSS20.png "Overview of the proposed method for hyperspectral pansharpening.")
 
 ## Citation
 Y. Zheng, J. Li, Y. Li, Y. Shi and J. Qu, "Deep Residual Spatial Attention Network for Hyperspectral Pansharpening," IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 2671-2674, doi: 10.1109/IGARSS39084.2020.9323620.
